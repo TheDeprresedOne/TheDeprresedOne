@@ -1,3 +1,3 @@
-.py
+....phyton
 printf("hellow")
-. 
+.... 
